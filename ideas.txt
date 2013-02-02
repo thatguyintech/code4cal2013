@@ -5,3 +5,4 @@ ever have a bunch of clothes lying around that you don't need anymore? with so m
 mobile app for ordering from cafes, they call you when it's done
 a clothes exchange site
 a non-ghetto version of http://students.berkeley.edu/osl/studentgroups/public/index.asp
+lecture notes and hw tracker
