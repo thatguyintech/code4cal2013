@@ -1,7 +1,3 @@
-appname: ClothesExchange
-
-ever have a bunch of clothes lying around that you don't need anymore? with so many other college students around, there's bound to be someone who would love to give your oldies another go! upload pictures and descriptions of your articles of clothing to ClothesExchange. Here, you can categorize the "styles" of clothing that you want to trade/sell, on your personal page. People can access your page and contact you if they want to trade/buy your clothes. 
-
 mobile app for ordering from cafes, they call you when it's done
 a clothes exchange site
 a non-ghetto version of http://students.berkeley.edu/osl/studentgroups/public/index.asp
